@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSetSpec1:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Set[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  when empty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should have size 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should produce NoSuchElementException when head is invoked[0m[0m

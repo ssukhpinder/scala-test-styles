@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSetSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- An empty Set should have size 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Invoking head on an empty Set should produce NoSuchElementException[0m[0m
